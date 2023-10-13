@@ -1,0 +1,3 @@
+
+- 🌱 I’m currently learning ...
+Hola, estoy intentando conectar una veleta y un anenometro a mi raspberry pi 4, estos tienen protocolo RS485, y no hay manera de hacerlos funcionar, estoy usando un adaptador usb to RS485, le pongo el codigo me dice leyendo datos, pero me aparece vacio, alguien tiene algún proyecto similar?, muchas gracias
